@@ -4,5 +4,5 @@
  ___) |   | |   | |_| |
 |____/    |_|   |____/
 
-# symfony Testing Dojo
+# Symfony Testing Dojo
 
